@@ -1,0 +1,6 @@
+{
+  "name": "துணை (Thunai) - Tamil Voice Assistant for Women",
+  "description": "A gentle, voice-first Tamil AI assistant helping first-time women users in India independently discover and access essential maternal government welfare schemes like PMMVY.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
